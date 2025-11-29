@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int n, tmp, sum = 0;
+	int n, tmp, sum = 0;
 int main()
 {
 	cin >> n;

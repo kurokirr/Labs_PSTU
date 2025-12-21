@@ -3,16 +3,21 @@ using namespace std;
 int n, tmp, sum = 0;
 int main()
 {
+	int n, p, r=1;
 	cin >> n;
-	for (int i = 1; i <= n; i++)
+	p = n / 2;
+	for (int i = 0; i < p; i++)
 	{
-		tmp = 1;
-		for (int j = i; j <= i * 2; j++)
+		for (int q = 0; q < p; q++)
 		{
-			tmp *= j;
+			cout << " ";
 		}
-		sum += tmp;
+		cout << "*";
+		for (int q = 0; q < r; q++)
+		{
+			cout << " ";
+		}
+		r += 2;
+		cout << endl;
 	}
-	cout << sum << endl;
-	return 0;
 }

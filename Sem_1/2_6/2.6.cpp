@@ -20,4 +20,5 @@ int main()
 		n2--;
 		s++;
 	}
+	return 0;
 }

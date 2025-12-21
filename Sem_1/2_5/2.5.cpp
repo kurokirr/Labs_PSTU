@@ -19,4 +19,5 @@ int main()
 		s++;
 		cout << endl;
 	}
+	return 0;
 }

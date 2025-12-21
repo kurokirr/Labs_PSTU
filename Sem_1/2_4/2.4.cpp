@@ -20,4 +20,5 @@ int main()
 		cout<<endl;
 		d += 2;
 	}
+	return 0;
 }

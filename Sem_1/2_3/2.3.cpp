@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
-	int n, tmp, sum = 0;
+using namespace std;ó
 int main()
 {
+	int n, tmp, sum = 0;
 	cin >> n;
 	for (int i = 1; i <= n; i++)
 	{

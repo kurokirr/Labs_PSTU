@@ -2,19 +2,25 @@
 using namespace std;
 int main()
 {
-	setlocale(LC_ALL, "Rus");
-	int n, s=0;
-	cin >> n;
-	for (int i = 0; i < n; i++)
-	{
-		if (i % 2 == 0)
-		{
-			s += i;
-		}
-		else
-		{
-			s += -i;
-		}
-	}
-	cout << s;
+    setLocale(LC_ALL, "Rus");
+    int ch, s;
+    bool fhod = false;
+    cin >> ch >> s;
+    while (ch > 0)
+    {
+        if (ch % 10 == s)
+        {
+            fhod = true;
+        }
+        ch /= 10;
+    }
+    if (fhod)
+    {
+        cout << "число входит";
+    }
+    else
+    {
+        cout << "число не входит";
+    }
+    return 0;
 }

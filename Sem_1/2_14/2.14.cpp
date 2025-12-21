@@ -10,4 +10,5 @@ int main()
 		s /= 10;
 	}
 	cout << s << endl;
+	return 0;
 }

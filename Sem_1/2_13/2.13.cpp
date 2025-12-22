@@ -22,4 +22,5 @@ int main()
 	{
 		cout << "корней нет" << endl;
 	}
-}
+	return 0;
+}	

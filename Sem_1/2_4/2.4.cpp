@@ -2,23 +2,12 @@
 using namespace std;
 int main()
 {
-	int n, p, d = 1, s;
+	int n;
 	cin >> n;
-	p = n / 2;
-	s = p;
-	for (int i = 0; i <=p; i++)
+	int array[n];
+	for (int i = 0; i < n; i++)
 	{
-		for (int q = 0; q < s; q++)
-		{
-			cout << " ";
-		}
-		for (int r = 0; r < d; r++)
-		{
-			cout << "*";
-		}
-		s--;
-		cout<<endl;
-		d += 2;
+		cin >> array[i];
 	}
-	return 0;
+	cout << "ττττττττττττττττττττττττ" << array;
 }

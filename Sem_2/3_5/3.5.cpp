@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	const int n = 7;
+	int a[n] = { 7, 2, 7, 4, 5, 6, 7 };
+	int max = a[0];
+	for (int i = 0; i < n; i++)
+	{
+		cout << a[i] << " ";
+	}
+	cout << endl;
+
+	for (int i = 0; i < n; i++)
+	{
+		if (a[i] > max)
+		{
+			max = a[i];
+		}
+	}
+	cout << "max = " << max;
+}

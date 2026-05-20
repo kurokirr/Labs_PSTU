@@ -62,10 +62,10 @@
 | 12 | 3_12 | 🟢 |  |  |
 | 13 | 3_13 | 🟢 |  |  |
 | 14 |Lab_4  | 🟢 |  |  |
-| 15 |Lab_5  | 🟢 |  |  |
-| 16 |Lab_6  | 🟢 |  |  |
-| 17 |Lab_7_1  | 🟢 |  |  |
-| 18 |Lab_7_2  | 🟢 |  |  |
+| 15 |Lab_5  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/lab%205.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/lab%205.png |
+| 16 |Lab_6  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/lab%206.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/lab%206.png |
+| 17 |Lab_7_1  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/7.1.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/lab%207.1.png  |
+| 18 |Lab_7_2  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/7.2.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/lab%207.2.png |
 | 19 |Lab_8  | 🟢 |  |  |
 | 20 |Lab_9  | 🟢 |  |  |
 | 21 |Lab_10  | 🟢 |  |  |
@@ -76,9 +76,9 @@
 | 26 |bubble_sort | 🟢 |  |  |
 | 27 |insert_sort | 🟢 |  |  |
 | 28 |selection_sort| 🟢 |  |  |
-| 29 |fibonachi  | 🟢 |  |  |
-| 31 | hanoi | 🟢 |  |  |
-| 32 |eightsqueens  | 🟢 |  |  |
+| 29 |fibonachi  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/fibonachi%201/fib.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/fibonachi%201/fib.png |
+| 31 | hanoi | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/hanoi%201/han.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/hanoi%201/han.png |
+| 32 |eightsqueens  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/eightsqueens%201/8queens.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/eightsqueens%201/8queens.png |
 | 33 | BucketSort | 🟢 |  |  |
 | 34 | MergeSort | 🟢 |  |  |
 | 35 | CountingSort | 🟢 |  |  |

@@ -48,20 +48,20 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | 3_1 | 🟢 |  |  |
-| 2 | 3_2 | 🟢 |  |  |
-| 3 | 3_3 | 🟢 |  |  |
-| 4 | 3_4 | 🟢 |  |  |
-| 5 | 3_5 | 🟢 |  |  |
-| 6 | 3_6 | 🟢 |  |  |
-| 7 | 3_7 | 🟢 |  |  |
-| 8 | 3_8 | 🟢 |  |  |
-| 9 | 3_9 | 🟢 |  |  |
-| 10 | 3_10 | 🟢 |  |  |
-| 11 | 3_11 | 🟢 |  |  |
-| 12 | 3_12 | 🟢 |  |  |
-| 13 | 3_13 | 🟢 |  |  |
-| 14 |Lab_4  | 🟢 |  |  |
+| 1 | 3_1 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_1/3.1.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_1/3_1.png  |
+| 2 | 3_2 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_2/3.2.cpp  |  https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_2/3_2.png|
+| 3 | 3_3 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_3/3.3.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_3/3_3.png  |
+| 4 | 3_4 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_4/3.4.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_4/3_4.png  |
+| 5 | 3_5 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_5/3.5.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_5/3_5.png |
+| 6 | 3_6 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_6/3.6.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_6/3_6.png |
+| 7 | 3_7 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_7/3.7.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_7/3_7.png |
+| 8 | 3_8 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_8/3.8.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_8/3_8.png  |
+| 9 | 3_9 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_9/3.9.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_9/3_9.png  |
+| 10 | 3_10 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_10/3.10.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_10/3_10.png |
+| 11 | 3_11 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_11/3.11.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_11/3_11.png |
+| 12 | 3_12 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_12/3.12.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_12/3_12.png  |
+| 13 | 3_13 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_13/3.13.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/3_13/3_13.png |
+| 14 |Lab_4  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№4%201/Лабораторная%20работа%204.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№4%201/Лабораторная%20работа%204.png |
 | 15 |Lab_5  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/Лабораторная%20работа%205.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/Лабораторная%20работа%205.png |
 | 16 |Lab_6  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/Лабораторная%20работа%206.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/Лабораторная%20работа%206.png |
 | 17 |Lab_7_1  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/7.1.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/lab%207.1.png  |

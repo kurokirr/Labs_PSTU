@@ -73,18 +73,18 @@
 | 23 |Lab_11_2  | 🟢 |https://github.com/kurokirr/Labs_PSTU/tree/main/Sem_2/lab%20№11/lab%20№11_2  |  |
 | 24 |Lab_11_3  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№11/lab%20№11_3/Лабораторная%20работа%2011(Информационные%20динамические%20структуры).cpp |  |
 | 25 |Lab_11_4  | 🟢 |  |  |
-| 26 |bubble_sort | 🟢 |  |  |
-| 27 |insert_sort | 🟢 |  |  |
-| 28 |selection_sort| 🟢 |  |  |
+| 26 |bubble_sort | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/bubble/bubblesort.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/bubble/bubble.png |
+| 27 |insert_sort | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/insertion/insertion.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/insertion/insertion.png  |
+| 28 |selection_sort| 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/selection/selection.cpp |  |
 | 29 |fibonachi  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/fibonachi%201/fib.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/fibonachi%201/fib.png |
 | 31 | hanoi | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/hanoi%201/han.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/hanoi%201/han.png |
 | 32 |eightsqueens  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/eightsqueens%201/8queens.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/eightsqueens%201/8queens.png |
-| 33 | BucketSort | 🟢 |  |  |
-| 34 | MergeSort | 🟢 |  |  |
-| 35 | CountingSort | 🟢 |  |  |
-| 36 | LomutoSort | 🟢 |  |  |
-| 37 |HoareSort  | 🟢 |  |  |
-| 38 | ShellSort | 🟢 |  |  |
+| 33 | BucketSort | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/bucket/bucket.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/bucket/bucket.png  |
+| 34 | MergeSort | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/merge/merge.cpp  |  |
+| 35 | CountingSort | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/counting/counting.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/counting/counting.png |
+| 36 | LomutoSort | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/lomuto/Сортировка%20Ломуто.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/lomuto/lomuto.png |
+| 37 |HoareSort  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/hoare/Сортировка%20Хоара.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/hoare/hoare.png  |
+| 38 | ShellSort | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/shell/Сортировка%20Шелла.cpp |  |
 | 39 |binary_search  | 🟢 |  |  |
 | 40 | boyer_moore_search | 🟢 |  |  |
 | 41 |interpolation_search  | 🟢 |  |  |

@@ -62,16 +62,16 @@
 | 12 | 3_12 | 🟢 |  |  |
 | 13 | 3_13 | 🟢 |  |  |
 | 14 |Lab_4  | 🟢 |  |  |
-| 15 |Lab_5  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/lab%205.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/lab%205.png |
-| 16 |Lab_6  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/lab%206.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/lab%206.png |
+| 15 |Lab_5  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/Лабораторная%20работа%205.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№5%201/Лабораторная%20работа%205.png |
+| 16 |Lab_6  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/Лабораторная%20работа%206.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/Лабораторная%20работа%206.png |
 | 17 |Lab_7_1  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/7.1.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/lab%207.1.png  |
 | 18 |Lab_7_2  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/7.2.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/lab%207.2.png |
 | 19 |Lab_8  | 🟢 |  |  |
 | 20 |Lab_9  | 🟢 |  |  |
-| 21 |Lab_10  | 🟢 |  |  |
-| 22 |Lab_11_1  | 🟢 |  |  |
-| 23 |Lab_11_2  | 🟢 |  |  |
-| 24 |Lab_11_3  | 🟢 |  |  |
+| 21 |Lab_10  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№10%201/Лабораторная%20работа%2010.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№10%201/Лаба%2010.png  |
+| 22 |Lab_11_1  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№11/lab%20№11_1/Лабораторная%20работа%2011%20(очередь).cpp  |  |
+| 23 |Lab_11_2  | 🟢 |https://github.com/kurokirr/Labs_PSTU/tree/main/Sem_2/lab%20№11/lab%20№11_2  |  |
+| 24 |Lab_11_3  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№11/lab%20№11_3/Лабораторная%20работа%2011(Информационные%20динамические%20структуры).cpp |  |
 | 25 |Lab_11_4  | 🟢 |  |  |
 | 26 |bubble_sort | 🟢 |  |  |
 | 27 |insert_sort | 🟢 |  |  |

@@ -66,8 +66,8 @@
 | 16 |Lab_6  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/Лабораторная%20работа%206.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№6%201/Лабораторная%20работа%206.png |
 | 17 |Lab_7_1  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/7.1.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/lab%207.1.png  |
 | 18 |Lab_7_2  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/7.2.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№7%201/lab%207.2.png |
-| 19 |Lab_8  | 🟢 |  |  |
-| 20 |Lab_9  | 🟢 |  |  |
+| 19 |Lab_8  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№8/Лабораторная%20работа%208.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№8/Лаба%208.png |
+| 20 |Lab_9  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№9/Лабораторная%20работа%209.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№9/Лаба%209.png  |
 | 21 |Lab_10  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№10%201/Лабораторная%20работа%2010.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№10%201/Лаба%2010.png  |
 | 22 |Lab_11_1  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/lab%20№11/lab%20№11_1/Лабораторная%20работа%2011%20(очередь).cpp  |  |
 | 23 |Lab_11_2  | 🟢 |https://github.com/kurokirr/Labs_PSTU/tree/main/Sem_2/lab%20№11/lab%20№11_2  |  |

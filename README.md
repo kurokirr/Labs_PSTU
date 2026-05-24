@@ -101,19 +101,19 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на UML |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | class_1 | 🟢 |  |  |
-| 2 | class_2 | 🟢 |  |  |
+| 1 | class_1 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab1.cpp |  |
+| 2 | class_2 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab2.cpp  |  |
 | 3 | class_3 | 🟢 |  |  |
-| 4 | class_4 | 🟢 |  |  |
-| 5 | class_5 | 🟢 |  |  |
-| 6 | class_6 | 🟢 |  |  |
+| 4 | class_4 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab4.cpp  |  |
+| 5 | class_5 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab5.cpp |  |
+| 6 | class_6 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_6.cpp  |  |
 | 7 | class_7 | 🟢 |  |  |
 | 8 | class_8 | 🟢 |  |  |
 | 9 | class_9 | 🟢 |  |  |
 | 10 | class_10 | 🟢 |  |  |
 | 11 | class_11 | 🟢 |  |  |
 | 12 | class_12 | 🟢 |  |  |
-| 13 | class_13 | 🟢 |  |  |
+| 13 | class_13 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_13.cpp  |  |
 | 11 | class_11 | 🟢 |  |  |
 | 12 | class_12 | 🟢 |  |  |
 | 13 | class_13 | 🟢 |  |  |

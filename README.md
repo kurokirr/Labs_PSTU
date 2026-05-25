@@ -85,10 +85,10 @@
 | 36 | LomutoSort | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/lomuto/Сортировка%20Ломуто.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/lomuto/lomuto.png |
 | 37 |HoareSort  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/hoare/Сортировка%20Хоара.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/hoare/hoare.png  |
 | 38 | ShellSort | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/Sort/shell/Сортировка%20Шелла.cpp |  |
-| 39 |binary_search  | 🟢 |  |  |
-| 40 | boyer_moore_search | 🟢 |  |  |
+| 39 |binary_search  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/binary/binary.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/binary/binary.png |
+| 40 | boyer_moore_search | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/boyer%20moore/Метод%20Бойера-Мура-Хорспула.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/boyer%20moore/бойер.png  |
 | 41 |interpolation_search  | 🟢 |  |  |
-| 42 |kmp_search  | 🟢 |  |  |
+| 42 |kmp_search  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/kmp/Метод%20Кнутта%20Морисса%20Пратта.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/kmp/kmp.png |
 | 43 |linear_search  | 🟢 |  |  |
 | 44 | substr_search | 🟢 |  |  |
 | 44 |Hash  | 🟢 |  |  |
@@ -101,20 +101,16 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на UML |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | class_1 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab1.cpp |  |
-| 2 | class_2 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab2.cpp  |  |
-| 3 | class_3 | 🟢 |  |  |
-| 4 | class_4 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab4.cpp  |  |
-| 5 | class_5 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab5.cpp |  |
-| 6 | class_6 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_6.cpp  |  |
-| 7 | class_7 | 🟢 |  |  |
-| 8 | class_8 | 🟢 |  |  |
-| 9 | class_9 | 🟢 |  |  |
-| 10 | class_10 | 🟢 |  |  |
-| 11 | class_11 | 🟢 |  |  |
-| 12 | class_12 | 🟢 |  |  |
-| 13 | class_13 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_13.cpp  |  |
-| 11 | class_11 | 🟢 |  |  |
-| 12 | class_12 | 🟢 |  |  |
-| 13 | class_13 | 🟢 |  |  |
-
+| 1 | class_1 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_1.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/1.png |
+| 2 | class_2 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_2.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/2.png |
+| 3 | class_3 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_3.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/3.png |
+| 4 | class_4 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_4.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/4.png |
+| 5 | class_5 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_5.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/5.png |
+| 6 | class_6 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_6.cpp |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/6.png  |
+| 7 | class_7 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_7.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/7.png  |
+| 8 | class_8 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_8.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/8.png  |
+| 9 | class_9 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_9.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/9.png |
+| 10 | class_10 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_10.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/10.png |
+| 11 | class_11 | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_11.cpp | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/11.png |
+| 12 | class_12 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_12.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/12.png |
+| 13 | class_13 | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/lab_13.cpp  |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/classes/13.png  |

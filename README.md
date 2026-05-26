@@ -91,7 +91,7 @@
 | 42 |kmp_search  | 🟢 |https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/kmp/Метод%20Кнутта%20Морисса%20Пратта.cpp  | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/search/kmp/kmp.png |
 | 43 |linear_search  | 🟢 |  |  |
 | 44 | substr_search | 🟢 |  |  |
-| 44 |Hash  | 🟢 |  |  |
+| 44 |Hash  | 🟢 | https://github.com/kurokirr/Labs_PSTU/blob/main/Sem_2/hash/hash.cpp |  |
 
 
 
